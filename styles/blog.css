@@ -270,3 +270,7 @@
     align-items: center;
     margin-bottom: 50px;
 }
+
+.donate-section{
+    display: flex;
+}
