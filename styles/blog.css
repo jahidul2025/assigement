@@ -406,6 +406,7 @@
     width: 127px;
     height: 47px;
     border: none;
+    cursor: pointer;
 }
 
 /* footer */
